@@ -35,7 +35,7 @@ Each feature is designed with ease of use and efficiency in mind, allowing you t
 
 ## 🔗 Links 
 
-- ✨ Try Ricktree here: Demo
+- ✨ Try Ricktree here: [Demo](https://ricktreelinks.netlify.app/)
 
 ## 💻 Technologies
 
